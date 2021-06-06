@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oFoodAdmin</string>
+
+    <string name="choose_date">Выберите дату</string>
+    <string name="confirmation">Ок</string>
+    <string name="cancel">Отмена</string>
+</resources>

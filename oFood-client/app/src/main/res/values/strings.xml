@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oFood</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_basket">Basket</string>
+    <string name="tab_info">Info</string>
+    
+    <string name="choose_date">Выберите дату</string>
+    <string name="confirmation">Ок</string>
+    <string name="cancel">Отмена</string>
+</resources>
